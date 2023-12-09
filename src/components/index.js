@@ -21,4 +21,4 @@ export {
     Fotter,
     Testimonials,
     Hero,
-}
+};
